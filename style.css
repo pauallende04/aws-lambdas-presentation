@@ -1,0 +1,23 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+h1{
+    font-size: 350%;
+}
+
+.img-fluid{
+    width: 3%;
+    
+}
+
+.img-fluid:hover{
+    animation: pulse;
+    animation-duration: 0.5s;
+}
+
